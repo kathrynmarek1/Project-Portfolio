@@ -38,7 +38,7 @@ This map shows the locations of the 2025 AMRDC automated weather stations across
 ### Project 7 — Africa Map
 This map shows the physical geography of Africa over a shaded-relief base map, labeling major landforms such as the Sahara, Sahel, Congo Basin, Ethiopian Highlands, and Great Rift Valley, along with key rivers, lakes, and surrounding seas. National capitals are marked with red stars, and other major cities with dots. I created this map in Fall 2025 using the Africa Equidistant Conic projection. 
 
-[View Project 7: Africa Map](Africa Map.pdf)
+[View Project 7: Africa Map](Africa%20Map.pdf)
 
 ## Resume
 
