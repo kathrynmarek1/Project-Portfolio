@@ -30,7 +30,10 @@ This poster is a summary of my spatiotemporal analysis of dust devil diameters u
 
 [View Project 5: SETI Institute Dust Devils Research Poster](SETI_REU_Poster_Final_KathrynMarek.png)
 
+### Project 6 — 2025 AMRDC Automated Weather Station Map
+This poster is a summary of my spatiotemporal analysis of dust devil diameters using ArcGIS Pro and Python. This poster was presented at AGU 2025 and AMS 2026 as part of my internship with the SETI Institute. 
 
+[View Project 6: MRDC Automated Weather Station Map](Final_Layout_AWSAntarctica_Map1.pdf)
 
 ## Resume
 
