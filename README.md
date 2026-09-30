@@ -31,7 +31,7 @@ This poster is a summary of my spatiotemporal analysis of dust devil diameters u
 [View Project 5: SETI Institute Dust Devils Research Poster](SETI_REU_Poster_Final_KathrynMarek.png)
 
 ### Project 6 — 2025 AMRDC Automated Weather Station Map
-This poster is a summary of my spatiotemporal analysis of dust devil diameters using ArcGIS Pro and Python. This poster was presented at AGU 2025 and AMS 2026 as part of my internship with the SETI Institute. 
+This map shows the locations of the 2025 AMRDC automated weather stations across Antarctica, marked with red triangles over a shaded-relief base map labeled with major physical features. An inset enlarges the densely clustered Ross Island area. Created in Fall 2025 using the WGS 1984 Antarctic Polar Stereographic projection (1:24,000,000). Sources: AMRDC, Natural Earth, and Esri ArcGIS Online.
 
 [View Project 6: MRDC Automated Weather Station Map](Final_Layout_AWSAntarctica_Map1.pdf)
 
