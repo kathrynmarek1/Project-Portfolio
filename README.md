@@ -40,6 +40,14 @@ This map shows the physical geography of Africa over a shaded-relief base map, l
 
 [View Project 7: Africa Map](Africa%20Map.pdf)
 
+### Project 8 — Paleoflood Research Poster
+This poster presents a paleoflood reconstruction for Seneca Lake, NY, using micro-XRF core scanning and magnetic susceptibility of lake sediment cores to identify past storm and flood events. Elemental proxies such as Fe/K and Zr/Rb suggest higher storm frequency during the cooler Neoglacial period than the warmer Hypsithermal, particularly in the northern part of the lake. This was presented at the AMS 2025 Annual Meeting.
+
+[View Project 8: Paleoflood Research Poster](NEPARS_Paleoflood_Poster_Compressed.jpg)
+
+
+NEPARS_Paleoflood_Poster_Compressed.jpg
+
 ## Resume
 
 [View my resume](Resume.pdf)
