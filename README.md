@@ -48,7 +48,7 @@ This poster presents a paleoflood reconstruction for Seneca Lake, NY, using micr
 
 ## Resume
 
-[View my resume](Resume.pdf)
+[View my resume](Resume_KMarek_Sep2026.pdf)
 
 ## Contact
 
