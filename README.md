@@ -18,12 +18,13 @@ This project examines the relationship between climate variability and income ac
 ### Project 3 — Antarctic Weather Station
 This map shows the satellite telemetry system used by automatic weather stations (AWS) across Antarctica: Argos (red triangles) or Iridium (green circles). Most stations in the network still transmit via Argos, while Iridium stations are concentrated around Ross Island and the Ross Ice Shelf, with additional sites at Siple Dome and Cape Hallett. An inset enlarges the densely packed Ross Island region so individual stations can be identified. This was created during my time with the Antarctic Meteorological Research and Data Center. 
 
-[View Project 3: Antarctic Weather Stations](ArgosOrodoum_Layout1.pdf
+[View Project 3: Antarctic Weather Stations](ArgosOrodoum_Layout1.pdf)
 
-### Project 4 — Ant
-Th
+### Project 4 — Colorado Ski Resorts Map
+This map highlights top-rated ski resorts across Colorado shown with red callout labels over county boundaries, major interstates, rivers, and cities. An inset locator map shows Colorado's position within the United States. This was created in Fall 2025 for Geography 370: Cartography. 
 
-[View Project 3: Antarctic Weather Stations](ArgosOrodoum_Layout1.pdf
+[View Project 4: Colorado Ski Resorts Map](GEOG370Lab1FinalMap.pdf)
+
 ## Resume
 
 [View my resume](Resume.pdf)
