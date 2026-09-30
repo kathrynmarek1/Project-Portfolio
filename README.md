@@ -25,6 +25,13 @@ This map highlights top-rated ski resorts across Colorado shown with red callout
 
 [View Project 4: Colorado Ski Resorts Map](GEOG370Lab1FinalMap.pdf)
 
+### Project 5 — SETI Institute Dust Devils Research Poster
+This poster is a summary of my spatiotemporal analysis of dust devil diameters using ArcGIS Pro and Python. This poster was presented at AGU 2025 and AMS 2026 as part of my internship with the SETI Institute. 
+
+[View Project 5: SETI Institute Dust Devils Research Poster](SETI_REU_Poster_Final_KathrynMarek.png)
+
+
+
 ## Resume
 
 [View my resume](Resume.pdf)
