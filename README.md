@@ -15,6 +15,15 @@ This project examines the relationship between climate variability and income ac
 
 [View Project 2: Billion Dollar Disasters](BillionDollarDisastersProject_May2026.pdf)
 
+### Project 3 — Antarctic Weather Station
+This map shows the satellite telemetry system used by automatic weather stations (AWS) across Antarctica: Argos (red triangles) or Iridium (green circles). Most stations in the network still transmit via Argos, while Iridium stations are concentrated around Ross Island and the Ross Ice Shelf, with additional sites at Siple Dome and Cape Hallett. An inset enlarges the densely packed Ross Island region so individual stations can be identified. This was created during my time with the Antarctic Meteorological Research and Data Center. 
+
+[View Project 3: Antarctic Weather Stations](ArgosOrodoum_Layout1.pdf
+
+### Project 4 — Ant
+Th
+
+[View Project 3: Antarctic Weather Stations](ArgosOrodoum_Layout1.pdf
 ## Resume
 
 [View my resume](Resume.pdf)
